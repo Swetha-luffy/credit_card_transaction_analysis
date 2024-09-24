@@ -25,43 +25,43 @@ sqlCopyUSE credit_card_transaction;
 Exploratory Analysis
 This section includes basic queries to understand the dataset:
 
-Total number of transactions
+1.Total number of transactions
 
-Total amount of transactions
+2.Total amount of transactions
 
-Average transaction value
+3.Average transaction value
 
-Transaction Distribution
+4.Transaction Distribution
 
 Analyze the distribution of transactions based on various factors:
 
-Transactions by city
+1.Transactions by city
 
-Transactions by card type
+2.Transactions by card type
 
-Transactions by expense type
+3.Transactions by expense type
 
-Transactions by gender
+4.Transactions by gender
 
-Transactions by year
+5.Transactions by year
 
 Top N Analysis
 Identify top performers in different categories:
 
-Top 5 cities with highest transaction volume
+1.Top 5 cities with highest transaction volume
 
-Top 5 card types with highest transaction volume
+2.Top 5 card types with highest transaction volume
 
-Top 5 expense types with highest transaction volume
+3.Top 5 expense types with highest transaction volume
 
 Transaction Trends
 Examine transaction patterns over time:
 
-Daily transaction volume and value
+1.Daily transaction volume and value
 
-Weekly transaction volume and value
+2.Weekly transaction volume and value
 
-Monthly transaction volume and value
+3.Monthly transaction volume and value
 
 Advanced Queries
 This section contains more complex queries for specific insights:
