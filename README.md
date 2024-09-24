@@ -3,21 +3,34 @@ Credit_Card_Transaction_Analysis
 This repository contains SQL queries for analyzing credit card transaction data. The queries cover various aspects of transaction analysis, including exploratory analysis, transaction distribution, top N analysis, transaction trends, and advanced queries for specific insights.
 
 Table of Contents
+
 Database
+
 Exploratory Analysis
+
 Transaction Distribution
+
 Top N Analysis
+
 Transaction Trends
+
 Advanced Queries
+
 
 Database
 The queries are designed to work with a database named credit_card_transaction. Make sure to use this database before running the queries:
+
 sqlCopyUSE credit_card_transaction;
+
+
 Exploratory Analysis
+
 This section includes basic queries to understand the dataset:
 
 Total number of transactions
+
 Total amount of transactions
+
 Average transaction value
 
 Transaction Distribution
