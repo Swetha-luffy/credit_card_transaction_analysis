@@ -18,18 +18,13 @@ sqlCopyUSE credit_card_transaction;
 
 
 Exploratory Analysis
-
 This section includes basic queries to understand the dataset:
-
 Total number of transactions
-
 Total amount of transactions
-
 Average transaction value
-
 Transaction Distribution
-Analyze the distribution of transactions based on various factors:
 
+Analyze the distribution of transactions based on various factors:
 Transactions by city
 Transactions by card type
 Transactions by expense type
